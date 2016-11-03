@@ -1,0 +1,14 @@
+{
+  "name": "mode_app",
+  "version": "0.0.1",
+  "description": "node_learn_project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Storozhenko Kirill",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
